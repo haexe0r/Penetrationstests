@@ -24,7 +24,8 @@
 
 **Inhalt**
 
-1. Penetrationstests
+1. [Nützliche Tipps](https://github.com/haexe0r/Penetrationstests/blob/master/Hilfreich/info.md)
+2. Penetrationstests
  - *WLAN (WEP, WPA, WPA2)*
  - *WLAN (Evil-Twin-Hotspot*)
 
